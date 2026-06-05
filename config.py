@@ -1,0 +1,17 @@
+# Registration credentials (Phase 1)
+CLIENT_ID = "d0db0261-9595-4c86-9576-ad0c3e2029cd"
+CLIENT_SECRET = "KtTrJVDxwpqKTSgC"
+ACCESS_CODE = "QQdEYy"
+
+# Authentication token (Phase 2)
+BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiIyM2JxMWE0MjE3QHZ2aXQubmV0IiwiZXhwIjoxNzgwNjM3NzM1LCJpYXQiOjE3ODA2MzY4MzUsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiI0NTU0MzI2OC03ZThlLTRjOWMtODU1OC04MWQ4Yjk4YjA3ZDciLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJiYXRodWxhIG1vaGFuYSBzcmloYXJpIiwic3ViIjoiZDBkYjAyNjEtOTU5NS00Yzg2LTk1NzYtYWQwYzNlMjAyOWNkIn0sImVtYWlsIjoiMjNicTFhNDIxN0B2dml0Lm5ldCIsIm5hbWUiOiJiYXRodWxhIG1vaGFuYSBzcmloYXJpIiwicm9sbE5vIjoiMjNicTFhNDIxNyIsImFjY2Vzc0NvZGUiOiJRUWRFWXkiLCJjbGllbnRJRCI6ImQwZGIwMjYxLTk1OTUtNGM4Ni05NTc2LWFkMGMzZTIwMjljZCIsImNsaWVudFNlY3JldCI6Ikt0VHJKVkR4d3BxS1RTZ0MifQ.bCUwM5kCEqRHyW23eqVIgInmfo9RgL_Aus8jTtxzaBA"
+
+# User info
+USER_EMAIL = "23bq1a4217@vvit.net"
+USER_NAME = "bathula mohana srihari"
+ROLL_NUMBER = "23bq1a4217"
+
+# API endpoints
+DEPOTS_API = "http://4.224.186.213/evaluation-service/depots"
+VEHICLES_API = "http://4.224.186.213/evaluation-service/vehicles"
+LOGS_API = "http://4.224.186.213/evaluation-service/logs"
